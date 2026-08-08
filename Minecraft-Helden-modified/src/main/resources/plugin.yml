@@ -1,0 +1,13 @@
+name: Minecraft-Helden
+version: '3.0'
+main: me.developer.minecrafthelden.Minecraft_Helden
+api-version: '1.21'
+author: xSnZX
+
+commands:
+  mh:
+    description: to reload the ( Config.yml ) File.
+  hearts:
+    description: to set x lives to players lives.
+  lives:
+    description: to make the player check his own lives.
